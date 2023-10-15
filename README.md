@@ -39,16 +39,10 @@ Here are the primary libraries and tools we're using for this project:
 
 # 📊 Data Source 📊
 
-- [Recipe Dataset](insert_dataset_link_here)
-- [Additional Data Source 1](insert_link)
-- [Additional Data Source 2](insert_link)
+- [Recipe Dataset](https://github.com/callysthenes/recipe_site_traffic/blob/master/recipe_site_traffic_2212.csv)
 
 # :raising_hand: Contributors :raising_hand:
 
 Meet the contributors who are making this project possible:
 
-- [Your Name](https://github.com/your_username) - Data Scientist
-- [Another Contributor](https://github.com/another_contributor) - Machine Learning Engineer
-- [More Contributors](https://github.com/more_contributors) - Data Analyst, UI/UX Designer
-
-Feel free to modify and personalize this README as needed for your project.
+- [callysthenes](https://github.com/callysthenes) - Data Scientist
